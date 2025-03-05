@@ -1,4 +1,4 @@
-# Update AWS Security Groups with My IP
+# Update AWS Security Groups with your Public IP to sepcific or all security groups in a region for EC2
 
 A bash script that automatically detects your public IP address and updates specified AWS security groups to allow inbound traffic from your location.
 
